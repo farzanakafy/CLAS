@@ -1,4 +1,4 @@
-How to run the Hospital Management System (CLAS) Project
+How to run the Clinic Appointment System (CLAS) Project
 1. Download the zip file
 2. Extract the file and copy hospital folder
 3.Paste inside root directory(for xampp xampp/htdocs)

@@ -104,7 +104,7 @@ if(isset($_POST['submit']))
                 </form>
 
                 <div class="copyright">
-                    <span class="text-bold text-uppercase">Hospital Management System</span>.
+                    <span class="text-bold text-uppercase">Clinic Appointment System</span>.
                 </div>
             </div>
         </div>

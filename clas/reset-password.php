@@ -97,7 +97,7 @@ return true;
 					</form>
 
 					<div class="copyright">
-						&copy; <span class="text-bold text-uppercase">  Hospital Management System</span>
+						&copy; <span class="text-bold text-uppercase">  Clinic Appointment System</span>
 					</div>
 			
 				</div>

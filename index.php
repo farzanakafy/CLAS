@@ -18,7 +18,7 @@ echo "<script>window.location.href ='index.php'</script>";
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> Hospital management System </title>
+    <title> Clinic Appointment System </title>
 
     <link rel="shortcut icon" href="assets/images/fav.jpg">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -68,7 +68,7 @@ echo "<script>window.location.href ='index.php'</script>";
                 <img class="d-block w-100" src="assets/images/slider/h1.jpg" alt="First slide">
                 <div class="carousel-cover"></div>
                 <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h5 class="animated bounceInDown">Hospital Management System</h5>
+                    <h5 class="animated bounceInDown">Clinic Appointment System</h5>
                 </div>
             </div>
             
@@ -76,7 +76,7 @@ echo "<script>window.location.href ='index.php'</script>";
                 <img class="d-block w-100" src="assets/images/slider/hgu.jpg" alt="Second slide">
                 <div class="carousel-cover"></div>
                 <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h5 class="animated bounceInDown">Hospital Management System</h5>
+                    <h5 class="animated bounceInDown">Clinic Appointment System</h5>
                 </div>
             </div>
 
@@ -84,7 +84,7 @@ echo "<script>window.location.href ='index.php'</script>";
                 <img class="d-block w-100" src="assets/images/slider/hh.jpg" alt="Third slide">
                 <div class="carousel-cover"></div>
                 <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h5 class="animated bounceInDown">Hospital Management System</h5>
+                    <h5 class="animated bounceInDown">Clinic Appointment System</h5>
                 </div>
             </div>
 
@@ -92,7 +92,7 @@ echo "<script>window.location.href ='index.php'</script>";
                 <img class="d-block w-100" src="assets/images/slider/ee.jpg" alt="Fourth slide">
                 <div class="carousel-cover"></div>
                 <div class="carousel-caption vdg-cur d-none d-md-block">
-                    <h5 class="animated bounceInDown">Hospital Management System</h5>
+                    <h5 class="animated bounceInDown">Clinic Appointment System</h5>
                 </div>
             </div>    
         </div>
@@ -483,7 +483,7 @@ while ($row=mysqli_fetch_array($ret)) {
     </footer>
    <div class="copy" style="text-align: right; font-family: 'Times New Roman', Times, serif;">
     <div class="container">
-       <b> Hospital Management System | Developed By D.Yasmin</b>            
+       <b> Clinic Appointment System | Developed By CLASGROUP</b>            
     </div>
 </div>
 </body>
