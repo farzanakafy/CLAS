@@ -1,6 +1,6 @@
 
 <?php
-include_once('hms/include/config.php');
+include_once('clas/include/config.php');
 if(isset($_POST['submit']))
 {
 $name=$_POST['fullname'];
@@ -34,7 +34,7 @@ echo "<script>window.location.href ='index.php'</script>";
         <div id="nav-head" class="header-nav">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-2 col-md-3  col-sm-12" style="color:#000;font-weight:bold; font-size:42px; margin-top: 1% !important;">HMS
+                    <div class="col-lg-2 col-md-3  col-sm-12" style="color:#000;font-weight:bold; font-size:42px; margin-top: 1% !important;">CLAS
                        <a data-toggle="collapse" data-target="#menu" href="#menu" ><i class="fas d-block d-md-none small-menu fa-bars"></i></a>
                     </div>
                     <div id="menu" class="col-lg-8 col-md-9 d-none d-md-block nav-item">
@@ -48,7 +48,7 @@ echo "<script>window.location.href ='index.php'</script>";
                         </ul>
                     </div>
                     <div class="col-sm-2 d-none d-lg-block appoint">
-                        <a class="btn btn-success" href="hms/login.php">Book an Appointment</a>
+                        <a class="btn btn-success" href="clas/login.php">Book an Appointment</a>
                     </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
                             <div class="blog-single-det">
                                 <h6>Patient Login</h6>
-                                <a href="hms/login.php" target="_blank">
+                                <a href="clas/login.php" target="_blank">
                                     <button class="btn btn-success btn-sm">Click  Here</button>
                                 </a>
                             </div>
@@ -138,7 +138,7 @@ echo "<script>window.location.href ='index.php'</script>";
 
                             <div class="blog-single-det">
                                 <h6>Doctors login</h6>
-                                <a href="hms/doctor" target="_blank">
+                                <a href="clas/doctor" target="_blank">
                                     <button class="btn btn-success btn-sm">Click Here</button>
                                 </a>
                             </div>
@@ -153,7 +153,7 @@ echo "<script>window.location.href ='index.php'</script>";
                             <div class="blog-single-det">
                                 <h6>Admin Login</h6>
                     
-                                <a href="hms/admin" target="_blank">
+                                <a href="clas/admin" target="_blank">
                                     <button class="btn btn-success btn-sm">Click Here</button>
                                 </a>
                             </div>

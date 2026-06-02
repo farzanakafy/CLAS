@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `hms`
+-- Database: `clas`
 --
 
 -- --------------------------------------------------------
@@ -602,8 +602,8 @@ CREATE TABLE `tblpage` (
 --
 
 INSERT INTO `tblpage` (`ID`, `PageType`, `PageTitle`, `PageDescription`, `Email`, `MobileNumber`, `UpdationDate`, `OpenningTime`) VALUES
-(1, 'aboutus', 'About Us', '<p style=\"font-size:14px; text-align:justify;\">\r\nThe Hospital Management System (HMS) is a comprehensive, integrated software solution designed to streamline and automate hospital operations. Our system helps manage patient records, appointments, billing, staff schedules, ward allocation, and medical histories with precision and security. By minimizing manual processes and enhancing data accuracy, HMS ensures improved efficiency, faster workflows, and better patient care. It supports informed decision-making and enables hospitals to deliver services in a timely, cost-effective manner while maintaining the highest standards of healthcare.\r\n</p>', NULL, NULL, '2020-05-20 01:51:52', NULL),
-(2, 'contactus', 'Contact Details', 'Door No. 10-2-45, 1st Floor, Sai Nagar, Opposite RTC Bus Stand, Anantapur, Andhra Pradesh - 515001', 'HMSinfo@gmail.com', 9841253067, '2020-05-20 01:54:07', '9 AM to 8 PM');
+(1, 'aboutus', 'About Us', '<p style=\"font-size:14px; text-align:justify;\">\r\nThe Hospital Management System (CLAS) is a comprehensive, integrated software solution designed to streamline and automate hospital operations. Our system helps manage patient records, appointments, billing, staff schedules, ward allocation, and medical histories with precision and security. By minimizing manual processes and enhancing data accuracy, CLAS ensures improved efficiency, faster workflows, and better patient care. It supports informed decision-making and enables hospitals to deliver services in a timely, cost-effective manner while maintaining the highest standards of healthcare.\r\n</p>', NULL, NULL, '2020-05-20 01:51:52', NULL),
+(2, 'contactus', 'Contact Details', 'Door No. 10-2-45, 1st Floor, Sai Nagar, Opposite RTC Bus Stand, Anantapur, Andhra Pradesh - 515001', 'CLASinfo@gmail.com', 9841253067, '2020-05-20 01:54:07', '9 AM to 8 PM');
 
 -- --------------------------------------------------------
 
